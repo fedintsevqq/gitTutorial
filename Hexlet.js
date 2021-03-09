@@ -31,5 +31,5 @@ console.log(Math.sqrt(-1));
 //14 lesson
 console.log((5 ** 2) - (3 * 7));
 //15 lesson
-
-//15 lessom
+console.log((5 ** 2) - (3 * 7));
+//16 lessom
